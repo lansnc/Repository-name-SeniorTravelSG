@@ -1,2 +1,2 @@
-# Repository-name-SeniorTravelSG
+# SeniorTravelSG
 Senior-friendly Singapore transportation and navigation assistant
